@@ -1,2 +1,5 @@
-# Paul-Navarre
-just another repository
+# More about me!
+As you have probably read, my name is Paul Navarre. I attend a small, private school in Michigan, and I am a freshman in High School. I am currently learning JavaScript, HTML, CSS, and a little bit of Python. Next year in high school I am taking AP Computer Science, so I figured that I would get a head start on the class over the summer by learning some stuff. My main project right now is to create a portfolio website to show off some of the videos I have edited and made, but I will probably have some more projects in the future. I have been editing video for over six years, but I recently upgraded my software to Premiere Pro, so I am still learning some things with that. I also enjoy listening to music and playing the drums. I have been playing the drums for pretty much my whole life. I usually listen to hard rock and trap music, and sometimes rap. I also play football, golf, and I am going to start powerlifting. I think that is pretty much all that I wanted to say! 
+If you would like to speak with me, you can email me at pnavarrebusiness@gmail.com
+Discord: NPaul#2330
+
